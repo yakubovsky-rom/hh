@@ -1,0 +1,9 @@
+yandex:
+    oauth:
+        client_id: here_your_client_id
+        client_login: here_your_client_login
+        access_token: here_your_access_token
+calltouch:
+    oauth:
+        token: here_your_token
+        site_id: here_your_site_id
